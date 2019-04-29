@@ -1,0 +1,13 @@
+{
+  "data_json": {
+    "columns": [
+      "customer_id", "col_1_int", "col_2_int", "col_3_float", "col_4_int", "col_5_str"
+      ],
+    "data":
+    [
+      [1, "349", "349", "355.6677", "112", "hello am a string "],
+      [2, "404", "404", "355.6677", "167", "hello am a string "],
+      [3, "459", "459", "355.6677", "222", "hello am a string "]
+   ]
+  }
+}
